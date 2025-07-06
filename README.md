@@ -18,16 +18,21 @@
 
 ---
 
-## 👨‍🎓 About Me
+👨‍🎓 About Me
+<table> <tr> <td width="70%">
+🎓 Completed B.Tech in Computer Science and Systems Engineering with a CGPA of 9.45
 
-- 🎓 Completed **B.Tech in Computer Science and Systems Engineering** with a **CGPA of 9.45**
-- 💼 6-month **Backend Development Internship at Myntra**
-- 🏆 **Finalist – J.P. Morgan Chase & Co. Code for Good 2024**
-- 🔥 Strong in **Data Structures & Algorithms (C++)**, and building full-stack web applications
-- 👨‍💻 Delivered several **freelance tech projects** across domains
-- ☁️ Exploring **System Design**, **Scalable Web Services**, and **Cloud Platforms**
+💼 6-month Backend Development Internship at Myntra
 
----
+🏆 Finalist – J.P. Morgan Chase & Co. Code for Good 2024
+
+💪 Strong in Data Structures & Algorithms (C++), and building full-stack web applications
+
+🧑‍💻 Delivered several freelance tech projects across domains
+
+☁️ Exploring System Design, Scalable Web Services, and Cloud Platforms
+
+</td> <td width="30%"> <img src="https://octodex.github.com/images/codercat.jpg" width="100%" alt="CoderCat"/> </td> </tr> </table>
 
 ## ⚔️ My Technical Arsenal – The Warrior's Weapon
 
