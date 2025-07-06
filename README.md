@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Nikhil Singh Bisht</h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/3cd8a7c6d147835ae98a0a9ed0b96eaf.gif" width="300"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/3cd8a7c6d147835ae98a0a9ed0b96eaf.gif" width="300"/><img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/3cd8a7c6d147835ae98a0a9ed0b96eaf.gif" width="300"/>
 </p>
 
 <p align="center">
