@@ -38,7 +38,7 @@ Just as a *Yodhya* steps into the battlefield with scriptures and weapons, a tec
 🌐 Frontend              : HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
 🧠 Backend               : Java (Spring Boot), REST APIs, WebSockets
 🗃️ Database              : MongoDB, MySQL, SQLite
-🛠️ Tools & Platforms     : Git, GitHub, GitLab, VS Code, Postman, Docker (basic)
+🛠️ Tools & Platforms     : Git, GitHub, GitLab, VS Code, Postman, Docker (basic)'''
 
 <!-- Hobbies --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=40C057&width=600&lines=📚+Hobbies+-+Fuel+for+the+Soul" alt="Typing SVG" /> </p>
 Just like oxygen fuels a flame, hobbies nourish the soul and energize the mind. Here's what keeps me recharged:
@@ -59,4 +59,4 @@ Just like oxygen fuels a flame, hobbies nourish the soul and energize the mind. 
 ⚙️ Practicing DSA in C++
 
 <!-- Connect With Me --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6F42C1&width=600&lines=🌐+Let's+Connect+%26+Collaborate" alt="Typing SVG" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/nikhil-singh-bisht-948107263/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/nikhilsinghbisht" target="_blank"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /> </a> <a href="https://medium.com/@nikhil-singh-bisht" target="_blank"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium" /> </a> </p>
-<!-- GitHub Stats --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&width=600&lines=📊+GitHub+Stats" alt="Typing SVG" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nikhilsinghbisht&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsinghbisht&theme=radical" width="48%" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=nikhilsinghbisht&label=Profile+Views&color=brightgreen&style=flat-square" alt="profile views"/> </p> ```
+<!-- GitHub Stats --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&width=600&lines=📊+GitHub+Stats" alt="Typing SVG" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nikhilsinghbisht&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsinghbisht&theme=radical" width="48%" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=nikhilsinghbisht&label=Profile+Views&color=brightgreen&style=flat-square" alt="profile views"/> </p> 
