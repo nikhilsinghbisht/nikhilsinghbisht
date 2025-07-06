@@ -8,7 +8,9 @@
 
 ---
 
-## 👨‍🎓 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93+About+Me" />
+</p>
 
 <table>
 <tr>
@@ -17,10 +19,13 @@
 </td>
 <td>
 
-- 🎓 Completed **B.Tech in Computer Science and Systems Engineering** with a **CGPA of 9.45**
+> 👋 *In the realm of code and keys,*  
+> *I craft, I build, I debug with ease.*
+
+- 🎓 Completed **B.Tech in Computer Science and Engineering** with a **CGPA of 9.45**
 - 💼 6-month **Backend Development Internship at Myntra**
 - 🏆 **Finalist – J.P. Morgan Chase & Co. Code for Good 2024**
-- 🔥 Strong in **Data Structures & Algorithms (C++)**, and building full-stack web applications
+- 💪 Strong in **Data Structures & Algorithms (C++)**, and building full-stack web applications
 - 👨‍💻 Delivered several **freelance tech projects** across domains
 - ☁️ Exploring **System Design**, **Scalable Web Services**, and **Cloud Platforms**
 
@@ -30,11 +35,12 @@
 
 ---
 
-## ⚔️ My Technical Arsenal – *The Warrior's Weapon*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=%E2%9A%94%EF%B8%8F+Technical+Arsenal+%E2%80%93+The+Warrior's+Weapon" />
+</p>
 
-Just as a **Yodhya** steps into the battlefield with scriptures and weapons,  
-a technologist enters challenges with tools and skills.  
-Here’s my personal arsenal of technologies:
+> Just as a **Yodhya** enters battle with scripture and sword,  
+> I step into code with tools adored.
 
 ### 💻 Programming Languages:
 <p>
@@ -70,10 +76,8 @@ Here’s my personal arsenal of technologies:
 
 ---
 
-## 🌈 My Hobbies – *The Mind's Playground*
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=🎯+My+Hobbies+%26+Interests" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=%F0%9F%8E%AF+My+Hobbies+%26+Interests" />
 </p>
 
 <table>
@@ -83,17 +87,15 @@ Here’s my personal arsenal of technologies:
 </td>
 <td>
 
-> 🌸 *When code tires the soul, a book becomes my light,*  
-> *I drift into stories, from morning till night.*  
-> ✍️ *Thoughts take flight as I write with grace,*  
-> *Each word a journey, each line a space.*  
-> 🎧 *With music and coffee, the world turns slow,*  
-> *And new ideas begin to flow.*  
-> 🌍 *Conversations with minds afar,*  
-> *Push me beyond — they raise my bar.*  
->  
-> *A hobby is more than just a way to unwind,*  
-> *It’s the mirror where I find my kind.*  
+> 📚 *Books that whisper knowledge deep,*  
+> ✍️ *Writing thoughts I often keep.*  
+> 🎧 *With music I reset, recharge, revive,*  
+> 💬 *Chats and ideas make me feel alive.*
+
+- I love diving into books on tech, self-growth, and creativity  
+- I blog occasionally to turn thoughts into stories  
+- I enjoy meaningful conversations, music, and travel  
+- Hobbies keep me balanced and help fuel innovation
 
 </td>
 </tr>
@@ -101,7 +103,9 @@ Here’s my personal arsenal of technologies:
 
 ---
 
-## 📈 GitHub Stats
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=%F0%9F%93%88+GitHub+Stats" />
+</p>
 
 <p align="center">
   <picture>
@@ -133,7 +137,9 @@ Here’s my personal arsenal of technologies:
 
 ---
 
-## 🌐 Let's Connect
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=%F0%9F%8C%90+Let's+Connect" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhil-singh-bisht-948107263/" target="_blank">
