@@ -154,7 +154,7 @@
 </p>
 
 <p align="center">
-  <a href="[(https://drive.google.com/file/d/1E996U84cDRhuouExz4RVM6dtDC40Rh4Q/view?usp=drive_link)]" download>
+  <a href="https://drive.google.com/uc?export=download&id=1E996U84cDRhuouExz4RVM6dtDC40Rh4Q" download>
     <img src="https://img.shields.io/badge/Download_Resume-grey?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
 </p>
