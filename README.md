@@ -5,7 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Thanks+for+visiting+my+profile!;Always+learning+new+tech.;Let's+connect+and+collaborate."/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Thanks+for+visiting+my+profile!;Always+learning+new+tech.;Let's+connect+and+collaborate." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Thanks+for+visiting+my+profile!;Always+learning+new+tech.;Let's+connect+and+collaborate." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Thanks+for+visiting+my+profile!;Always+learning+new+tech.;Let's+connect+and+collaborate." />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhilsinghbisht&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -23,7 +31,9 @@
 
 ## ⚔️ My Technical Arsenal – The Warrior's Weapon
 
-Just as a *Yodhya* steps into the battlefield with scriptures and weapons, a technologist enters challenges with tools and skills. Here's my arsenal:
+> Just as a **Yodhya** steps into the battlefield with scriptures and weapons, a technologist enters challenges equipped with tools, languages, and frameworks.
+
+I consider myself a **lifelong learner** and an evolving engineer. Here are some of the technological weapons I've mastered and continue sharpening daily:
 
 ### 💻 Programming Languages:
 <p>
@@ -59,7 +69,7 @@ Just as a *Yodhya* steps into the battlefield with scriptures and weapons, a tec
 
 ---
 
-## 📚 My Hobbies
+## 🧠 My Hobbies – Fuel for Creativity
 
 <table>
 <tr>
@@ -68,10 +78,12 @@ Just as a *Yodhya* steps into the battlefield with scriptures and weapons, a tec
 </td>
 <td>
   <p>
-    <strong>📖 Reading</strong> – I love books on tech, self-growth, and productivity.<br>
-    <strong>✍️ Writing</strong> – Turning thoughts into clarity through blogs.<br>
-    <strong>🎧 Music, Travel & Conversations</strong> – Fuel my curiosity & creativity.<br><br>
-    I enjoy connecting with developers worldwide. Don't hesitate to reach out — just don’t say “hi”, tell me your story! 💜
+    Just like oxygen fuels a flame, hobbies nourish the soul and energize the mind. Here's what keeps me recharged:
+    <br/><br/>
+    📖 <b>Reading</b> – Books on self-growth, technology, and life<br/>
+    ✍️ <b>Writing</b> – Turning thoughts into clarity and blogs<br/>
+    🎧 <b>Music, Travel & Conversations</b> – My stress-busters and inspiration boosters<br/><br/>
+    I love connecting with different people around the world 🌍. Feel free to <b>reach out</b> and introduce yourself — don’t just say hi, tell me about yourself 😊💜
   </p>
 </td>
 </tr>
