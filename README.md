@@ -12,10 +12,7 @@
 
 ---
 
-<!-- About Me -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C8FF&width=600&lines=🌱+About+Me+-+The+Journey+So+Far" alt="Typing SVG" />
-</p>
+## 👨‍🎓 About Me
 
 🎓 Completed **B.Tech in Computer Science and Systems Engineering** with a **CGPA of 9.45**  
 💼 6-month Backend Development Internship at **Myntra**  
@@ -26,52 +23,71 @@
 
 ---
 
-<!-- Technical Skills -->
+## 🛠️ Technical Skills
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F70000&width=600&lines=⚔️+My+Technical+Arsenal+-+The+Warrior's+Weapons" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212735430-8d7e0b88-602f-4e92-a479-84c99f41d2de.gif" width="300"/>
 </p>
 
-Just as a *Yodhya* steps into the battlefield with scriptures and weapons, a technologist enters challenges with tools and skills. Here's my evolving arsenal:
+🧠 As we all know, under engineering, technical skills are the weapons of a technologist.  
+Just as a **Yodhya** protects his life with weapons, I too strive to sharpen my tools and tech daily.
 
-💻 Programming Languages : C++, Java, Python, SQL
-🌐 Frontend : HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
-🧠 Backend : Java (Spring Boot), REST APIs, WebSockets
-🗃️ Database : MongoDB, MySQL, SQLite
-🛠️ Tools & Platforms : Git, GitHub, GitLab, VS Code, Postman, Docker (basic)
+### 💻 Programming Languages:
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
 
+### 🌐 Frontend:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+
+### 🔧 Backend:
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF6F00?style=flat&logo=api&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-1E90FF?style=flat&logo=websocket&logoColor=white"/>
+
+### 🗄️ Database:
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+
+### 🧰 Tools & Platforms:
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 
 ---
 
-<!-- Hobbies -->
+## 📚 My Hobbies
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=40C057&width=600&lines=📚+Hobbies+-+Fuel+for+the+Soul" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" />
 </p>
 
-Just like oxygen fuels a flame, hobbies nourish the soul and energize the mind. Here's what keeps me recharged:
-
-📖 **Reading** – Books on self-growth, technology, and life  
-✍️ **Writing** – Turning thoughts into clarity and blogs  
-🎧 **Music, Travel & Conversations** – My stress-busters and inspiration boosters
+📖 **Reading** – I love books on technology, productivity & self-growth  
+✍️ **Writing** – Turning thoughts into clarity (and blogs)  
+🎧 **Music, Travel, and People** – Fuel for creativity & peace
 
 ---
 
-<!-- Achievements -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F59E0B&width=600&lines=🏆+Highlights+-+Milestones+That+Matter" alt="Typing SVG" />
-</p>
+## 🏆 Highlights & Achievements
 
 - 🏅 Finalist – **JP Morgan Code for Good 2024**  
-- 💼 **6-month Backend Intern** – Myntra  
-- 🚀 Built **Unisync** – a student collaboration platform  
-- 🧑‍💻 Delivered **freelance projects**  
-- ⚙️ Practicing **DSA in C++**
+- 💼 **Backend Intern at Myntra** – 6 months  
+- 🚀 Built **Unisync** – student collaboration platform  
+- 🧑‍💻 Delivered freelance projects in web & automation  
+- 🧩 Consistent problem-solving in **DSA (C++)**
 
 ---
 
-<!-- Connect With Me -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6F42C1&width=600&lines=🌐+Let's+Connect+%26+Collaborate" alt="Typing SVG" />
-</p>
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhil-singh-bisht-948107263/" target="_blank">
@@ -87,10 +103,7 @@ Just like oxygen fuels a flame, hobbies nourish the soul and energize the mind. 
 
 ---
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&width=600&lines=📊+GitHub+Stats" alt="Typing SVG" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhilsinghbisht&show_icons=true&theme=radical" width="48%" />
