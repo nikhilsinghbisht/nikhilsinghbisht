@@ -1,89 +1,81 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Nikhil Singh Bisht</h1>
+<h1 align="center">Hi there 👋, I'm Nikhil Singh Bisht</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/3cd8a7c6d147835ae98a0a9ed0b96eaf.gif" width="300"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nikhilsinghbisht">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=500&lines=Thanks+for+visiting+my+profile!;Let's+connect+%26+build+amazing+things+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Thanks+for+visiting+my+profile!;Always+learning+new+tech.;Let's+connect+and+collaborate."/>
 </p>
 
 ---
 
 ## 👨‍🎓 About Me
 
-🎓 Completed **B.Tech in Computer Science and Systems Engineering** with a **CGPA of 9.45**  
-💼 6-month Backend Development Internship at **Myntra**  
-🏆 Finalist – **J.P. Morgan Chase & Co. Code for Good 2024**  
-🧠 Strong in **Data Structures & Algorithms (C++)**, and building full-stack web applications  
-🛠️ Delivered freelance tech solutions across domains  
-🚀 Exploring System Design, Scalable Web Services, and Cloud Platforms
+- 🎓 Completed **B.Tech in Computer Science and Systems Engineering** with a **CGPA of 9.45**
+- 💼 6-month **Backend Development Internship at Myntra**
+- 🏆 **Finalist – J.P. Morgan Chase & Co. Code for Good 2024**
+- 🔥 Strong in **Data Structures & Algorithms (C++)**, and building full-stack web applications
+- 👨‍💻 Delivered several **freelance tech projects** across domains
+- ☁️ Exploring **System Design**, **Scalable Web Services**, and **Cloud Platforms**
 
 ---
 
-## 🛠️ Technical Skills
+## ⚔️ My Technical Arsenal – The Warrior's Weapon
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212735430-8d7e0b88-602f-4e92-a479-84c99f41d2de.gif" width="300"/>
-</p>
-
-🧠 As we all know, under engineering, technical skills are the weapons of a technologist.  
-Just as a **Yodhya** protects his life with weapons, I too strive to sharpen my tools and tech daily.
+Just as a *Yodhya* steps into the battlefield with scriptures and weapons, a technologist enters challenges with tools and skills. Here's my arsenal:
 
 ### 💻 Programming Languages:
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ### 🌐 Frontend:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
 ### 🔧 Backend:
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF6F00?style=flat&logo=api&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSockets-1E90FF?style=flat&logo=websocket&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-1E90FF?style=for-the-badge&logo=websocket&logoColor=white"/>
+</p>
 
 ### 🗄️ Database:
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-
-### 🧰 Tools & Platforms:
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
 ---
 
 ## 📚 My Hobbies
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" />
-</p>
-
-📖 **Reading** – I love books on technology, productivity & self-growth  
-✍️ **Writing** – Turning thoughts into clarity (and blogs)  
-🎧 **Music, Travel, and People** – Fuel for creativity & peace
-
----
-
-## 🏆 Highlights & Achievements
-
-- 🏅 Finalist – **JP Morgan Code for Good 2024**  
-- 💼 **Backend Intern at Myntra** – 6 months  
-- 🚀 Built **Unisync** – student collaboration platform  
-- 🧑‍💻 Delivered freelance projects in web & automation  
-- 🧩 Consistent problem-solving in **DSA (C++)**
+<table>
+<tr>
+<td width="300px">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+</td>
+<td>
+  <p>
+    <strong>📖 Reading</strong> – I love books on tech, self-growth, and productivity.<br>
+    <strong>✍️ Writing</strong> – Turning thoughts into clarity through blogs.<br>
+    <strong>🎧 Music, Travel & Conversations</strong> – Fuel my curiosity & creativity.<br><br>
+    I enjoy connecting with developers worldwide. Don't hesitate to reach out — just don’t say “hi”, tell me your story! 💜
+  </p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -101,15 +93,36 @@ Just as a **Yodhya** protects his life with weapons, I too strive to sharpen my 
   </a>
 </p>
 
+<p align="center">
+  <a href="https://your-resume-link.com/resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download_Resume-grey?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsinghbisht&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsinghbisht&theme=radical" width="48%" />
-</p>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=nikhilsinghbisht&show_icons=true&theme=light"
+      media="(prefers-color-scheme: light)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=nikhilsinghbisht&show_icons=true&theme=radical"
+      media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nikhilsinghbisht&show_icons=true" />
+  </picture>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilsinghbisht&label=Profile+Views&color=brightgreen&style=flat-square" alt="profile views"/>
+  <br/>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsinghbisht&theme=default"
+      media="(prefers-color-scheme: light)" />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsinghbisht&theme=radical"
+      media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsinghbisht" />
+  </picture>
 </p>
