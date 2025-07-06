@@ -1,44 +1,40 @@
-<h1 align="center">Hi there 👋, I'm Nikhil Singh Bisht</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Nikhil+Singh+Bisht;Welcome+to+my+GitHub+kingdom!;Full-Stack+Developer+%7C+DSA+Enthusiast+%7C+Creative+Coder" />
+</h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/3cd8a7c6d147835ae98a0a9ed0b96eaf.gif" width="300"/><img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/3cd8a7c6d147835ae98a0a9ed0b96eaf.gif" width="300"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Thanks+for+visiting+my+profile!;Always+learning+new+tech.;Let's+connect+and+collaborate." />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Thanks+for+visiting+my+profile!;Always+learning+new+tech.;Let's+connect+and+collaborate." />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Thanks+for+visiting+my+profile!;Always+learning+new+tech.;Let's+connect+and+collaborate." />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilsinghbisht&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views"/>
+  <img src="https://cdn.dribbble.com/users/2046015/screenshots/6044302/warrior_dribbble.gif" width="300"/>
 </p>
 
 ---
 
-👨‍🎓 About Me
-<table> <tr> <td width="70%">
-🎓 Completed B.Tech in Computer Science and Systems Engineering with a CGPA of 9.45
+## 👨‍🎓 About Me
 
-💼 6-month Backend Development Internship at Myntra
+<table>
+<tr>
+<td width="300px">
+  <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="100%" />
+</td>
+<td>
 
-🏆 Finalist – J.P. Morgan Chase & Co. Code for Good 2024
+- 🎓 Completed **B.Tech in Computer Science and Systems Engineering** with a **CGPA of 9.45**
+- 💼 6-month **Backend Development Internship at Myntra**
+- 🏆 **Finalist – J.P. Morgan Chase & Co. Code for Good 2024**
+- 🔥 Strong in **Data Structures & Algorithms (C++)**, and building full-stack web applications
+- 👨‍💻 Delivered several **freelance tech projects** across domains
+- ☁️ Exploring **System Design**, **Scalable Web Services**, and **Cloud Platforms**
 
-💪 Strong in Data Structures & Algorithms (C++), and building full-stack web applications
+</td>
+</tr>
+</table>
 
-🧑‍💻 Delivered several freelance tech projects across domains
+---
 
-☁️ Exploring System Design, Scalable Web Services, and Cloud Platforms
+## ⚔️ My Technical Arsenal – *The Warrior's Weapon*
 
-</td> <td width="30%"> <img src="https://octodex.github.com/images/codercat.jpg" width="100%" alt="CoderCat"/> </td> </tr> </table>
-
-## ⚔️ My Technical Arsenal – The Warrior's Weapon
-
-> Just as a **Yodhya** steps into the battlefield with scriptures and weapons, a technologist enters challenges equipped with tools, languages, and frameworks.
-
-I consider myself a **lifelong learner** and an evolving engineer. Here are some of the technological weapons I've mastered and continue sharpening daily:
+Just as a **Yodhya** steps into the battlefield with scriptures and weapons,  
+a technologist enters challenges with tools and skills.  
+Here’s my personal arsenal of technologies:
 
 ### 💻 Programming Languages:
 <p>
@@ -74,7 +70,11 @@ I consider myself a **lifelong learner** and an evolving engineer. Here are some
 
 ---
 
-## 🧠 My Hobbies – Fuel for Creativity
+## 🌈 My Hobbies – *The Mind's Playground*
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=🎯+My+Hobbies+%26+Interests" />
+</p>
 
 <table>
 <tr>
@@ -82,43 +82,26 @@ I consider myself a **lifelong learner** and an evolving engineer. Here are some
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 </td>
 <td>
-  <p>
-    Just like oxygen fuels a flame, hobbies nourish the soul and energize the mind. Here's what keeps me recharged:
-    <br/><br/>
-    📖 <b>Reading</b> – Books on self-growth, technology, and life<br/>
-    ✍️ <b>Writing</b> – Turning thoughts into clarity and blogs<br/>
-    🎧 <b>Music, Travel & Conversations</b> – My stress-busters and inspiration boosters<br/><br/>
-    I love connecting with different people around the world 🌍. Feel free to <b>reach out</b> and introduce yourself — don’t just say hi, tell me about yourself 😊💜
-  </p>
+
+> 🌸 *When code tires the soul, a book becomes my light,*  
+> *I drift into stories, from morning till night.*  
+> ✍️ *Thoughts take flight as I write with grace,*  
+> *Each word a journey, each line a space.*  
+> 🎧 *With music and coffee, the world turns slow,*  
+> *And new ideas begin to flow.*  
+> 🌍 *Conversations with minds afar,*  
+> *Push me beyond — they raise my bar.*  
+>  
+> *A hobby is more than just a way to unwind,*  
+> *It’s the mirror where I find my kind.*  
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nikhil-singh-bisht-948107263/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/nikhilsinghbisht" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://medium.com/@nikhil-singh-bisht" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://your-resume-link.com/resume.pdf" download>
-    <img src="https://img.shields.io/badge/Download_Resume-grey?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <picture>
@@ -142,4 +125,30 @@ I consider myself a **lifelong learner** and an evolving engineer. Here are some
       media="(prefers-color-scheme: dark)" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsinghbisht" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhilsinghbisht&label=Profile+Views&color=blue&style=flat" alt="Nikhil's GitHub views"/>
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhil-singh-bisht-948107263/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/nikhilsinghbisht" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://medium.com/@nikhil-singh-bisht" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://your-resume-link.com/resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download_Resume-grey?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+  </a>
 </p>
